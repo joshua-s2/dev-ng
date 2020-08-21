@@ -1,6 +1,6 @@
 # DEV NG
 
-A simple platform for developers within a certain region to associate themselves together and build a small more active and better relationships among developers of same origin.
+A simple platform for developers within a certain region to associate themselves together and build small more and active groups with better relationships among developers of same origin.
 
 Using the Saas/Admin template @ [Dunky](https://github.com/dunky11/react-saas-template/)
 
@@ -31,7 +31,7 @@ Using the Saas/Admin template @ [Dunky](https://github.com/dunky11/react-saas-te
 1. Clone the repository
 
    ```
-   git clone https://github.com/dunky11/react-saas-template
+   git clone https://github.com/lazylegion/dev-ng
    ```
 
 2. Install dependencies, this can take a minute

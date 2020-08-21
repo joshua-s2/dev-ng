@@ -68,7 +68,7 @@ function Routing(props) {
     <div className={classes.wrapper}>
       <Switch>
         <PropsRoute
-          path="/c/posts"
+          path="/auth/posts"
           component={Posts}
           EmojiTextArea={EmojiTextArea}
           ImageCropper={ImageCropper}
@@ -80,7 +80,7 @@ function Routing(props) {
           selectPosts={selectPosts}
         />
         <PropsRoute
-          path="/c/subscription"
+          path="/auth/subscription"
           component={Subscription}
           transactions={transactions}
           pushMessageToSnackbar={pushMessageToSnackbar}
